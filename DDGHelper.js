@@ -6,8 +6,9 @@
 // @match  *://*/*
 // @grant  GM_xmlhttpRequest
 // ==/UserScript==
-// 需在16行处，自行填入Authorization参数（可抓包获得）
 
+// 可在14行处，更换自建DDGEP请求url
+// 需在17行处，自行填入Authorization参数（可抓包获得）
 
 // 请求URL
 var url = 'https://ddgep.whatk.me/api/generateaddresses';
