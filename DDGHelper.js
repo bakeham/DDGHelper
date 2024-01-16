@@ -42,7 +42,7 @@ for (var i = 0; i < inputs.length; i++) {
  // 创建一个按钮元素
  var button = document.createElement("button");
  // 设置按钮的文本
- button.textContent = "填入邮箱";
+ button.textContent = "填入DDG邮箱";
  // 设置按钮的样式
  button.style.marginLeft = "10px";
  // 设置按钮的点击事件
